@@ -141,4 +141,4 @@ HW project (MOVS 2023, ML course). With all sorts of linear models and FastApi s
 
 ![Изображение](https://github.com/gbull25/LinearRegression_HW/raw/main/pics/handle_1.png "Первая ручка")
 
-![Изображение](hhttps://github.com/gbull25/LinearRegression_HW/raw/main/pics/handle_2.png "Вторая ручка")
+![Изображение](https://github.com/gbull25/LinearRegression_HW/raw/main/pics/handle_2.png "Вторая ручка")
