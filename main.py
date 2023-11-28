@@ -191,6 +191,12 @@ def preprocessing (df):
 
     return X_test_sc
 
+@app.get('/', summary='Root')
+async def root():
+    hello = "Good day to you, this is FastAPI service with super cool"
+    "Linear Regresseion model inside. It can predict car prices"
+    return hello
+
 @app.post("/predict_item", summary='Get predicitions for one item')
 def predict_item(item: Item) -> float:
     '''
