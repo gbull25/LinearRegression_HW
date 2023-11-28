@@ -194,7 +194,7 @@ def preprocessing (df):
 @app.get('/', summary='Root')
 async def root():
     hello = ["Good day to you, this is FastAPI service with super cool",
-              "Linear Regresseion model inside. It can predict car prices"]
+              "\nLinear Regresseion model inside. It can predict car prices"]
     return hello[0] + hello[1]
 
 @app.post("/predict_item", summary='Get predicitions for one item')
